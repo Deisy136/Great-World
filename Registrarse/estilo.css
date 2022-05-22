@@ -1,0 +1,57 @@
+#Principal {
+      	      margin: 0;
+      	      padding: 0;
+      	      box-sizing: border-box;
+      	      position: absolute;
+      	      top: 0px;
+
+
+      	    }
+
+      	    body {
+
+  background: radial-gradient(circle at top left, #84C9F9, #ACA4FA
+
+
+);
+
+      	    }
+
+      	    .form-register {
+      	    width: 365px;
+      	    background: #26264E;
+      	    padding: 25px;
+      	    margin: auto;
+      	    margin-top: 21px;
+      	    border-radius: 4px;
+      	    font-family: 'calibri';
+      	    color: white;
+      	    box-shadow: 7px 13px 37px #000 ;
+      	    position: relative;
+      	    top: 0%;
+      	    }
+
+
+      	    .form-register h4 {
+      	    font-size: 40px;
+      	    margin-bottom: 20px;
+      	    }
+
+
+      	    .controls {
+      	    width: 100%;
+      	    background: #26264E;
+      	    padding: 10px;
+      	    border-radius: 4px;
+      	    margin-bottom: 16px;
+      	    border: 1px solid #5C5CCB;
+      	    font-family: 'calibri';
+      	    font-size: 18px;
+      	    }
+
+
+
+      	    .form-register a {
+      	    color: white;
+      	    text-decoration: none;
+      	    }
